@@ -1,0 +1,14 @@
+* {
+	font-family: sans-serif;
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+
+ul {
+	display: table;
+	margin: 0 auto;
+	padding: 0;
+	text-align: left;
+	list-style-position: inside;
+}
