@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+	<title>youngchief btw ツ/title>
+	<description>Main RSS feed</description>
+	<link>https://ycws.vercel.app/</link>
+	<copyright>© 2021 youngchief btw ツ, All Rights Reserved.</copyright>
+	<lastBuildDate>Mon, 04 Oct 2021 00:02:30 +0000</lastBuildDate>
+	<pubDate>Mon, 04 Oct 2021 00:02:30 +0000</pubDate>
+	<ttl>1800</ttl>
+	<language>en-us</language>
+	<image>
+		<url></url>
+		<title>YoungChief Logo</title>
+		<link>https://ycws.vercel.app/</link>
+	</image>
+</channel>
+</rss>

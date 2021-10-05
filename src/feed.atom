@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+	<title>youngchief btw ツ</title>
+	<subtitle>Main RSS feed</subtitle>
+	<link href="https://ycws.vercel.app/feed.atom" rel="self" />
+	<link href="https://ycws.vercel.app/">
+	<id>urn:uuid:b5577a31-5bf1-47ee-8191-6c8f4239fd8a</id>
+	<updated>2021-10-04T02:30:00Z</updated>
+</feed>
