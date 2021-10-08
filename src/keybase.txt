@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/youngchief
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://ycws.vercel.app
+  * I am youngchief (https://keybase.io/youngchief) on keybase.
+  * I have a public key ASAPJ7hXY7z7CtSEVpplBF9XL8saDq6g9pL096V1XKK5-wo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200f27b85763bcfb0ad484569a65045f572fcb1a0eaea0f692f4f7a5755ca2b9fb0a",
+      "host": "keybase.io",
+      "kid": "01200f27b85763bcfb0ad484569a65045f572fcb1a0eaea0f692f4f7a5755ca2b9fb0a",
+      "uid": "7e3875cc3a71c0224c4662faeb218e19",
+      "username": "youngchief"
+    },
+    "merkle_root": {
+      "ctime": 1633736278,
+      "hash": "9407b54032857039ec0e818928f02d580f072de6e2b1d08726d5cfb4192296f7524e92e5f7106728c157633933f24fff89cada5279e7724c7736970887076397",
+      "hash_meta": "7158d5a3836c98e94ad672391557a9e46d645b6356357e127a38e1c1494a5c97",
+      "seqno": 20946421
+    },
+    "service": {
+      "entropy": "xfzUS3i4g6J45gG0V+R1zPVS",
+      "hostname": "ycws.vercel.app",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.8.1"
+  },
+  "ctime": 1633736301,
+  "expire_in": 504576000,
+  "prev": "1bffc824e38e3d7c9e9f6bf0f861e447c0713c1b2754b4e9dffa545a36ac2b7e",
+  "seqno": 8,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDye4V2O8+wrUhFaaZQRfVy/LGg6uoPaS9PeldVyiufsKp3BheWxvYWTESpcCCMQgG//IJOOOPXyen2vw+GHkR8BxPBsnVLTp3/pUWjasK37EILGsSHPa/jM5fX6u+Cyvw8GIy/Vf7b2wfgToNWKgIm1bAgHCo3NpZ8RAUPQYCo57wia+hrkCUSbHaqxKr5nWPRphrnwSO7NHVOBBGWEAjKcKpcibjT3Z1UFBlMGDGzc2PYk3PP9J+ImLCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIGA5l6ocMO5uxpbt+HYRSi+R4Y38ZALQLZ9dBRESJQrDo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/youngchief
+
+==================================================================
