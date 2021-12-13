@@ -12,3 +12,11 @@ ul {
 	text-align: left;
 	list-style-position: inside;
 }
+
+a {
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration:underline;
+}
