@@ -20,3 +20,8 @@ a {
 a:hover {
 	text-decoration:underline;
 }
+
+body {
+    width: 100%;
+    height: 100%
+}
