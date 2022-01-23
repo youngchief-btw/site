@@ -26,3 +26,11 @@ body {
     width: 100%;
     height: 100%
 }
+
+.mcl-row {
+  display: flex;
+}
+
+.mcl-column-50 {
+  flex: 50%;
+}
