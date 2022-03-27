@@ -1,0 +1,15 @@
+global_title="youngchief btw ツ"
+global_description="My blog about anything & everything :)"
+global_url="../blog"
+
+global_author="youngchief btw ツ"
+global_author_url="https://ycws.vercel.app" 
+global_email="youngchief /a/ tchncs /d/ de"
+
+global_license="&copy;"
+
+footer_file="footer.html"
+
+blog_feed="../blog.rss"
+
+html_exclude=('body_begin_file_index.html' 'header.html' 'footer.html')

@@ -1,0 +1,3 @@
+[submodule "blog"]
+	path = src/blog
+	url = https://codeberg.org/youngchief/blog

@@ -2,17 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel><title>youngchief btw ツ</title><link>../blog/index.html</link>
 <description>My blog about anything & everything :)</description><language>en</language>
-<lastBuildDate>Sun, 23 Jan 2022 18:44:55 -0800</lastBuildDate>
-<pubDate>Sun, 23 Jan 2022 18:44:55 -0800</pubDate>
-<atom:link href="../blog/../feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Sun, 23 Jan 2022 19:01:15 -0800</lastBuildDate>
+<pubDate>Sun, 23 Jan 2022 19:01:15 -0800</pubDate>
+<atom:link href="../blog/../blog.rss" rel="self" type="application/rss+xml" />
 <item><title>
+
+
 Title on this line
 </title><description><![CDATA[
+
+
 
 <p>The rest of the text file is an <b>html</b> blog post. The process will continue as soon
 as you exit your editor.</p>
 
 <p>Tags: <a href='tag_keep-this-tag-format.html'>keep-this-tag-format</a>, <a href='tag_tags-are-optional.html'>tags-are-optional</a>, <a href='tag_example.html'>example</a></p>
+
+
+
+
+
+
+
+
+
+
 
 <!-- text end -->
 ]]></description><link>../blog/title-on-this-line.html</link>
