@@ -1,3 +1,6 @@
 [submodule "blog"]
 	path = src/blog
 	url = https://codeberg.org/youngchief/blog
+[submodule "src/blog"]
+	path = src/blog
+	url = https://codeberg.org/youngchief/blog.git
