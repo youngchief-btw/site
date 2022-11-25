@@ -41,3 +41,7 @@ body {
     padding: 2px;
     line-break: 2px;
 }
+
+hr {
+	width: 25%
+}
