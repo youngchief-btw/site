@@ -1,0 +1,6 @@
+{
+    "rewrites": [		
+        {"source": "/_matrix/:match*", "destination": "https://synapse.youngchief.tk/_matrix/:match*"},		
+        {"source": "/_synapse/:match*", "destination": "https://synapse.youngchief.tk/_synapse/:match*"}
+    ]		
+}
